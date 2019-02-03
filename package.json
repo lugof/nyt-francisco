@@ -16,11 +16,9 @@
     "node": "10.14.1",
     "npm": "6.4.1"
   },
-
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.2.2",
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
   },
